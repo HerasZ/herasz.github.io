@@ -5,7 +5,6 @@ titles:
   en      : &EN       Home
   # @end locale config
 key: page-home
-cover: /docs/assets/images/axure/page-article-header-overlay-background-fill-immersive-translucent-header.jpg
 mode: immersive
 header:
   theme: dark

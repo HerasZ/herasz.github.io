@@ -22,7 +22,7 @@ url     : https://herasz.github.io # the base hostname & protocol for your site 
 baseurl : # does not include hostname
 title   : Zombie Attack
 description: > # this means to ignore newlines until "Language & timezone"
-  UAH 
+  Videogame proyect
 
 
 ## => Language and Timezone
