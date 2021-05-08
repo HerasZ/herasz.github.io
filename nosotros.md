@@ -20,4 +20,4 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
 - Daniel de Heras Zorita
 - Bruan Sebastián Salguero Pinto
 
-## Tecnologia de videojuegos - UAH
+## Tecnología de videojuegos - UAH
