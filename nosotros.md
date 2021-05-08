@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Quienes somos
+  en      : &EN       ¿Quienes somos?
   # @end locale config
 key: page-nosotros
 ---
