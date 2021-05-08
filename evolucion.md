@@ -16,7 +16,7 @@ key: page-evolucion
         <h4>Prototipo</h4>
       </div>
       <div class="item__description">
-        <p>Primera version de nuestro juego</p>
+        <p>Primera versión de nuestro juego</p>
       </div>
     </div>
   </div>
