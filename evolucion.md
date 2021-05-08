@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Evolucion
+  en      : &EN       Evolución
   # @end locale config
 key: page-evolucion
 ---
