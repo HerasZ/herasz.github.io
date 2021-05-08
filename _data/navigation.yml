@@ -10,3 +10,9 @@ header:
       en      : &EN       Quienes somos
       # @end locale config
     url: /nosotros.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Evolucion
+      # @end locale config
+    url: /evolucion.html
