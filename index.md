@@ -1,5 +1,6 @@
 ---
 layout: article
+title: Zombie Attack
 titles:
   # @start locale config
   en      : &EN       Inicio
@@ -16,7 +17,6 @@ article_header:
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
 ---
 
-## Zombie Attack
 # Historia
 El protagonista del juego debe tratar de salvar su vida en un ambiente de batalla en el que diferentes tipos de personajes buscarán derrotarlo.  
 A medida que vayan pasando los niveles y vaya acabando con todos los zombies irá rescatando a la humanidad de este ataque. El objetivo del protagonista es llegar al último nivel en el que se acabar con la última onda de zombies.
