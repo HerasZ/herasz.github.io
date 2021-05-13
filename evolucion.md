@@ -13,7 +13,7 @@ key: page-evolucion
     </div>
     <div class="item__content">
       <div class="item__header">
-        <h4>Prototipo</h4>
+        <h4>Prototipo 1.0</h4>
       </div>
       <div class="item__description">
         <p>Primera versión de nuestro juego</p>
@@ -27,7 +27,7 @@ key: page-evolucion
     </div>
     <div class="item__content">
       <div class="item__header">
-        <h4>Prototipo</h4>
+        <h4>Prototipo 1.1</h4>
       </div>
       <div class="item__description">
         <p>Añadidas animaciones, distintos personajes, scroll del viewport, y mas plataformas</p>
