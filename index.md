@@ -8,14 +8,8 @@ key: page-home
 header:
   theme: dark
   background: '#333'
-article_header:
-  type: cover
-  theme: dark
-  background_color: '#123'
-  image: 
-    gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
-    src: "titulo2.png"
 ---
+<img class="image image--xl" src="titulo1.png"/>
 
 ## Historia
 El protagonista del juego debe tratar de salvar su vida en un ambiente de batalla en el que diferentes tipos de personajes buscarán derrotarlo.  
