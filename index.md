@@ -12,7 +12,7 @@ article_header:
   type: cover
   theme: dark
   background_color: '#123'
-  background_image: 
+  image: 
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
     src: "titulo2.png"
 ---
