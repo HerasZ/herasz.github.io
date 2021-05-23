@@ -1,5 +1,6 @@
 ---
 layout: article
+title: "titulo2.png"
 titles:
   # @start locale config
   en      : &EN       Inicio
@@ -13,9 +14,6 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: 
-    gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
-  image:
-    src : "titulo2.png"
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
 ---
 
