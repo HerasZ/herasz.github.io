@@ -15,7 +15,6 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
 
 - Daniel Martinez Algar 
 - Miguel Virtus Rubio
-- Paula Izquierdo Rodríguez
 - Sergio Lorenzo Montiel
 - Daniel de Heras Zorita
 - Bruan Sebastián Salguero Pinto
