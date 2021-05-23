@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Zombie Attack
+title: null
 titles:
   # @start locale config
   en      : &EN       Inicio
@@ -13,7 +13,7 @@ article_header:
   type: overlay
   theme: dark
   background_color: '#123'
-  background_image: 
+  background_image: "titulo1.png"
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
 ---
 
