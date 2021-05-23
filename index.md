@@ -10,10 +10,9 @@ header:
   background: '#333'
 ---
 
-<p align="center">
-<h1> Bienvenido </h1>
-<img class="image image--xl" src="titulo1.png"/>
-</p>
+<div class="hero hero--dark" style='background-image: url("titulo1.png");'>
+
+</div>
 
 ## Historia
 El protagonista del juego debe tratar de salvar su vida en un ambiente de batalla en el que diferentes tipos de personajes buscarán derrotarlo.  
