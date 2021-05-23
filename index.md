@@ -1,20 +1,20 @@
 ---
 layout: article
-title: "titulo2.png"
 titles:
   # @start locale config
   en      : &EN       Inicio
   # @end locale config
 key: page-home
-mode: immersive
 header:
   theme: dark
+  background: '#333'
 article_header:
   type: cover
   theme: dark
   background_color: '#123'
   background_image: 
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
+    src: "titulo2.png"
 ---
 
 ## Historia
