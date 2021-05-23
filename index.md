@@ -7,7 +7,7 @@ titles:
 key: page-home
 header:
   theme: dark
-  background: '#333'
+  background: '#2d8a6f'
 ---
 
 <div align="center">
