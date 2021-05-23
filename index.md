@@ -10,8 +10,8 @@ header:
   background: '#333'
 ---
 
-<div class="hero hero--dark" style='background-image: url("titulo1.png");'>
-
+<div align="center">
+<img class="image image--xl" src="titulo1.png"/>
 </div>
 
 ## Historia
