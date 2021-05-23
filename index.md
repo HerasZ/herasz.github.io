@@ -9,7 +9,7 @@ header:
   theme: dark
   background: '#333'
 ---
-
+### Inicio
 <div align="center">
 <img class="image image--xl" src="titulo1.png"/>
 </div>
