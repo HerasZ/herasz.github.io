@@ -11,7 +11,7 @@ header:
 ---
 
 <div align="center">
-<img class="image image--xl" src="titulo1.png"/>
+<img class="image image--md" src="titulo1.png"/>
 </div>
 
 ## Historia
