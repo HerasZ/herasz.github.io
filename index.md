@@ -15,7 +15,8 @@ article_header:
   background_image: 
     gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
   image:
-    src : "titulo1.png"
+    src : "titulo2.png"
+    gradient: 'linear-gradient(135deg,rgba(0,0,0,.4),rgba(200,200,200,.4))'
 ---
 
 ## Historia
