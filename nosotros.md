@@ -17,6 +17,6 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
 - Miguel Virtus Rubio
 - Sergio Lorenzo Montiel
 - Daniel de Heras Zorita
-- Bruan Sebastián Salguero Pinto
+- Bryan Sebastián Salguero Pinto
 
 ## Tecnología de videojuegos - UAH
