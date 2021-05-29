@@ -13,10 +13,75 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
 
 ### Desarrolladores del proyecto:
 
-- Daniel Martinez Algar 
-- Miguel Virtus Rubio
-- Sergio Lorenzo Montiel
-- Daniel de Heras Zorita
-- Bryan Sebastián Salguero Pinto
+-<div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo1.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Daniel Martinez Algar</h4>
+      </div>
+      <div class="item__description">
+        <p>Jefe de proyecto</p>
+      </div>
+    </div>
+  </div>
+  <br>
+<div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo1.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Miguel Virtus Rubio</h4>
+      </div>
+      <div class="item__description">
+        <p>Programador</p>
+      </div>
+    </div>
+  </div>
+  <br>
+<div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo1.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Sergio Lorenzo Montiel</h4>
+      </div>
+      <div class="item__description">
+        <p>Sonido</p>
+      </div>
+    </div>
+  </div>
+  <br>
+<div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo1.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Daniel de Heras Zorita</h4>
+      </div>
+      <div class="item__description">
+        <p>Web</p>
+      </div>
+    </div>
+  </div>
+  <br>
+<div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo1.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Bryan Sebastián Salguero Pinto</h4>
+      </div>
+      <div class="item__description">
+        <p>Testing, diseño</p>
+      </div>
+    </div>
+  </div>
+  <br>
 
 ## Tecnología de videojuegos - UAH
