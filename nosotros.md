@@ -13,7 +13,7 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
 
 ### Desarrolladores del proyecto:
 
--<div class="item">
+<div class="item">
     <div class="item__image">
       <img class="image image--xl" src=""/>
     </div>
