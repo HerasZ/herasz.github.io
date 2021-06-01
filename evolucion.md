@@ -51,3 +51,19 @@ key: page-evolucion
       </div>
     </div>
   </div>
+
+  <br>
+  
+  <div class="item">
+    <div class="item__image">
+      <img class="image image--xl" src="prototipo4.png"/>
+    </div>
+    <div class="item__content">
+      <div class="item__header">
+        <h4>Prototipo 0.4</h4>
+      </div>
+      <div class="item__description">
+        <p>Re-sprite de zombies, personajes (3 en total) y terreno. Añadida barra de progreso de nivel. Menu principal más pulido.</p>
+      </div>
+    </div>
+  </div>
