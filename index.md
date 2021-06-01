@@ -20,5 +20,5 @@ A medida que vayan pasando los niveles y vaya acabando con todos los zombies ir�
 Una vez hecho esto se habrá conseguido salvar a todos los miembros del juego, que podrá usar para jugar tras finalizar el juego.
 
 <div align="center">
-<a class="button button--primary button--rounded button--xl" href=""><i class="fas fa-list"></i>REPOSITORIO</a>
+<a class="button button--primary button--rounded button--xl" href=""><i class="fas fa-list"></i> REPOSITORIO</a>
 </div>
