@@ -22,3 +22,9 @@ Una vez hecho esto se habrá conseguido salvar a todos los miembros del juego, q
 <div align="center">
 <a class="button button--primary button--rounded button--xl" href="https://github.com/uah-videojuegos-2021/final-project-grupo-1"><i class="fas fa-list"></i> REPOSITORIO</a>
 </div>
+<div align="center">
+<a class="button button--primary button--rounded button--xl" href=""><i class="fas fa-clipboard-list"></i> GDD</a>
+</div>
+<div align="center">
+<a class="button button--primary button--rounded button--xl" href=""><i class="fas fa-calendarcheck"></i> MEMORIA</a>
+</div>
