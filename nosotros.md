@@ -43,7 +43,7 @@ Para comenzar con nuestro primer proyecto, hemos decidido crear algo sencillo pe
   <br>
 <div class="item">
     <div class="item__image">
-      <img class="image image--m" src="User-Icon-PNG.png"/>
+      <img class="image image--m" src="sonido.jpeg"/>
     </div>
     <div class="item__content">
       <div class="item__header">
