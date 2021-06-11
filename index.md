@@ -13,6 +13,7 @@ header:
 <div align="center">
 <img  src="titulo1.png" width="60%" height="40%">
 </div>
+<br/>
 <div class="grid" align="center">
   <div class="cell cell--4 ">
     <a class="button button--primary button--rounded button--xl" href="https://github.com/uah-videojuegos-2021/final-project-grupo-1"><i class="fas fa-list"></i> REPOSITORIO</a>
